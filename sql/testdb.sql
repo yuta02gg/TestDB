@@ -1,5 +1,5 @@
-drop databace if exists testdb;
-create databace testdb;
+drop database if exists testdb;
+create database testdb;
 use testdb;
 
 create table test_table(
